@@ -1,6 +1,6 @@
 ## Welcome to my profile!
 
-I am **Mingda Yang**, An undergraduate student in computer science.
+I am **Mingda Yang**, an undergraduate student in computer science.
 
 - 🎓 Undergraduate student in Computer Science from Harbin Institute of Technology (2022)  
 - 🌍 Artificial intelligence and mathematics as primary fields  

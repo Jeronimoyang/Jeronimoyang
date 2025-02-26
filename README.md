@@ -5,7 +5,7 @@
     <a href="mailto:2022110829@stu.hit.edu.cn">Email</a> ∙
     <a href="https://scholar.google.com.hk/citations?user=cRLTfEgAAAAJ&hl=zh-CN">Google Scholar</a> ∙
     <!--<a href="https://npu-home.github.io/home/">NPU-Home</a>-->
-    <a href="https://Jeronimoyang.github.io/">Homepage</a>
+    <a href="https://jeronimoyang.github.io/">Homepage</a>
   </samp>
 </p>
 

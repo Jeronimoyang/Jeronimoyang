@@ -16,10 +16,9 @@ I am **Mingda Yang**, an undergraduate majoring in Computer Science.
 
 - 🎓 Undergraduate in Computer Science from Harbin Institute of Technology (CHN)
 - 🌍 Focus on the machine learning and Natural Language Processing
-<!-- 📊 Skilled in probabilistic modeling for large-scale sequential data, balancing computational efficiency with statistical robustness  -->
 - 📘 Enjoy exploring learning mechanisms by Language Analysis and text mining
 - 💻 Develop efficient and effective combination forecasting techniques utilizing machine learning methods  
-
+<!-- 📊 Skilled in probabilistic modeling for large-scale sequential data, balancing computational efficiency with statistical robustness  -->
 
 <!--
 ![暗色](https://raw.githubusercontent.com/zhoufanglu/githubSNK/df18a4a2fb544d5fc0e692f98c3436e9dccaa547/github-contribution-grid-snake.svg#gh-dark-mode-only)

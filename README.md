@@ -1,4 +1,4 @@
-<h3 align="center"> Mingyuan Yang / 杨明达</h3>
+<h3 align="center"> Mingda Yang / 杨明达</h3>
 
 <p align="center">
   <samp>
